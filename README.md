@@ -47,9 +47,6 @@ solar-challenge-week1/
 │   ├── sierraleone-bumbuna.csv
 │   ├── togo-dapaong_qc.csv
 │   └── ...
-├── docs/                 # Documentation and reports
-│   ├── project_report.ipynb
-│   └── README.md
 ├── notebooks/            # Jupyter notebooks for EDA and analysis
 │   ├── benin_eda.ipynb
 │   ├── sierraleone_eda.ipynb
